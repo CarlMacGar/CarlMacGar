@@ -22,16 +22,14 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CarlMacGar&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlMacGar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="CarlMacGar's Github Stats">
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlMacGar&theme=dark&hide_border=false" /> 
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CarlMacGar&theme=transparent&border_radius=3&background=20%2C000000%2C130F40&fire=7A7ADB&ring=7A7ADB&currStreakNum=D3D3D3&sideLabels=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&dates=7A7ADB" alt="GitHub Streak" /></a>
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlMacGar&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlMacGar&theme=dark&hide_border=false&bg_color=0,000000,130F40&title_color=7A7ADB&text_color=D3D3D3&langs_count=10" alt="Top Languages">
   </td>
 </tr>
 </table>
