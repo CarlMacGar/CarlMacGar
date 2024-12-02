@@ -21,6 +21,21 @@
 [![My Skills](https://skillicons.dev/icons?i=py,js,mysql,html,css,md,tailwindcss,nodejs,github,vscode,react,figma,notion,discord)](https://skillicons.dev)
 
 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Some of my repos
+<div align="center">
+  <a href="https://github.com/CarlMacGar/CarlMacGar"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlMacGar&repo=CarlMacGar&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/></a>
+</div>
+<br>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <!-- Segunda fila y en adelante: Filas de dos repositorios -->
+  <a href="https://github.com/CarlMacGar/recommender-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlMacGar&repo=recommender-app&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+  </a>
+  <a href="https://github.com/CarlMacGar/DaVinci-Page">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlMacGar&repo=DaVinci-Page&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+  </a>
+</div>
+
 ## <picture><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 30px></picture> Some statistics
 <!--- stats & Trophy (start) -->
 <p align="center">
