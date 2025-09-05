@@ -73,7 +73,7 @@
 <p align="center">
   <a href="https://github.com/CarlMacGar"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="mailto:carlosgsolarte@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://discord.com/users/4116"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://discord.com/users/747529232091054130"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 <!--
 **CarlMacGar/CarlMacGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
