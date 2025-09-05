@@ -31,8 +31,8 @@
   <a href="https://github.com/CarlMacGar/recommender-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlMacGar&repo=recommender-app&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
   </a>
-  <a href="https://github.com/CarlMacGar/DaVinci-Page">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlMacGar&repo=DaVinci-Page&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+  <a href="https://github.com/CarlMacGar/Cuadrando-las-lucas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlMacGar&repo=Cuadrando-las-lucas&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
   </a>
 </div>
 
@@ -71,13 +71,14 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://github.com/CarlMacGar"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:carlosgsolarte@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://discord.com/users/4116"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 <!--
 **CarlMacGar/CarlMacGar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
